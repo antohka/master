@@ -1,0 +1,19 @@
+{
+  "name": "template",
+  "version": "0.0.0",
+  "authors": [
+    "Boris Mileev"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}

@@ -1,0 +1,27 @@
+@import "_variables.scss";
+@import "_mixins.scss";
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,300,300i,400,500,700,800');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+
+
+html {
+    
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+
+* {
+    outline: none !important;
+}
+
+a {
+    &:hover {
+        text-decoration: none;
+    }
+}
